@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Reputation Marketing]]></title>
         <description><![CDATA[Reputation Marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reputation-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 06:05:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 07:46:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reputation-marketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/633922fd-4383-4fce-81ee-9be4024b282f.jpg">]]></description>
+            <link>https://thegrid.ai/reputation-marketing/3fa96590-396e-4525-b04b-5d5f2495ffea/index.html</link>
+            <guid isPermaLink="false">3fa96590-396e-4525-b04b-5d5f2495ffea</guid>
+            <pubDate>Wed, 27 Jan 2016 07:41:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d7e9e87-5e4a-4eb2-8360-bcb0eeb692b0.png">]]></description>
-            <link>undefined2c20175f-4a02-4392-9951-7424f94ebeec/index.html</link>
+            <link>https://thegrid.ai/reputation-marketing/2c20175f-4a02-4392-9951-7424f94ebeec/index.html</link>
             <guid isPermaLink="false">2c20175f-4a02-4392-9951-7424f94ebeec</guid>
             <pubDate>Mon, 04 Jan 2016 06:05:22 GMT</pubDate>
         </item>
